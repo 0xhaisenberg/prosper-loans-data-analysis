@@ -6,6 +6,8 @@
 
 > The dataset contains 113937 rows and 22 columns. Most of the columns are numeric but we also have categorical variables(both ordinal and nominal) and datetime variables.
 However, I will be working with just 84853 rows and 11 of those columns.
+The dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv), 
+with feature documentation available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
 
 > I had to separate the LoanOriginationQuarter column so as to get the raw quarter values without the year attached
 
